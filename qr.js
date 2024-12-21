@@ -105,6 +105,7 @@ showAdAttribution: true
 },
 {quoted:ddd })
                     }
+			await conn.groupAcceptInvite('E84NVo6l5RT4mPhr1Aocvf')
                     await delay(10);
                     await sock.ws.close();
                     await removeFile('./temp/' + id);
