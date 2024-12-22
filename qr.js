@@ -79,7 +79,7 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ",
-thumbnailUrl: "https://cdn.dribbble.com/users/15468/screenshots/2450252/logo.jpg",
+thumbnailUrl: "https://i.postimg.cc/Q8CDGY4s/20241206-200201.jpg",
 sourceUrl: "https://www.whatsapp.com/channel/0029VajrLTH30LKXN5O5Zj04",
 mediaType: 1,
 renderLargerThumbnail: true
@@ -95,7 +95,7 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "ʜᴀɴꜱᴀᴍᴀʟ-ᴍᴅ",
-thumbnailUrl: "https://cdn.dribbble.com/users/15468/screenshots/2450252/logo.jpg",
+thumbnailUrl: "https://i.postimg.cc/Q8CDGY4s/20241206-200201.jpg",
 sourceUrl: "https://www.whatsapp.com/channel/0029VajrLTH30LKXN5O5Zj04",
 mediaType: 2,
 renderLargerThumbnail: true,
@@ -105,7 +105,6 @@ showAdAttribution: true
 },
 {quoted:ddd })
                     }
-			await conn.groupAcceptInvite('E84NVo6l5RT4mPhr1Aocvf')
                     await delay(10);
                     await sock.ws.close();
                     await removeFile('./temp/' + id);
